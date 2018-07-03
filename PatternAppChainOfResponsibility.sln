@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternAppChainOfResponsibility", "PatternAppChainOfResponsibility\PatternAppChainOfResponsibility.csproj", "{6EBD99DE-CA9E-4795-A2B2-4F9539A7680A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EBD99DE-CA9E-4795-A2B2-4F9539A7680A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EBD99DE-CA9E-4795-A2B2-4F9539A7680A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EBD99DE-CA9E-4795-A2B2-4F9539A7680A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EBD99DE-CA9E-4795-A2B2-4F9539A7680A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83FE9A83-1DE5-41C5-88B6-9C13415C4A96}
+	EndGlobalSection
+EndGlobal

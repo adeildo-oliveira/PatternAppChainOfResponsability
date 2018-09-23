@@ -14,7 +14,7 @@ namespace PatternAppChainOfResponsibility
             var desconto = new CalcularDescontos().CalculaDesconto(orcamento);
 
             Console.WriteLine(desconto);
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }
